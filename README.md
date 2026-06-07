@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=200&section=header&text=Asayel%20Alosaimi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Penetration%20Tester%20%7C%20Computer%20Engineering&descAlignY=58&descSize=16&descColor=aaaaaa)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a1628&height=200&section=header&text=Asayel%20Alosaimi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Penetration%20Tester%20%7C%20Computer%20Engineering&descAlignY=58&descSize=16&descColor=aaaaaa)
 
 </div>
 
@@ -56,6 +56,7 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Networking](https://img.shields.io/badge/Networking-0078D4?style=flat-square&logo=cisco&logoColor=white)
@@ -84,6 +85,6 @@ IT Support & Infrastructure  ██████████░░░░  72%
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,100:000000&height=120&section=footer)
 
 </div>
