@@ -21,25 +21,17 @@
 
 <img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=AsayelAlosaimi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=7eb8f7&icon_color=7eb8f7&text_color=ffffff"/>
 
-##  About Me
+## About Me
 
-```python
-class AsayelAlosaimi:
-    role     = "Penetration Tester"
-    degree   = "Computer Engineering"
-    focus    = [
-        "Web Application Security",
-        "Network Assessments",
-        "Vulnerability Analysis",
-        "CTF Challenges"
-    ]
-    status   = "Open to opportunities"
-    passion  = "Cybersecurity ∞"
+```
+  Name    : Asayel Alosaimi
+  Role    : Penetration Tester & Security Researcher & CTF Player 
+  Focus   : Web App Security · Network Assessments · Vulnerability Analysis
+  Status  : Open to opportunities in Cybersecurity & IT
 ```
 
-<br clear="right"/>
-
 ---
+
 
 ##  Certifications
 
