@@ -1,90 +1,143 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a1628&height=200&section=header&text=Asayel%20Alosaimi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Penetration%20Tester%20%7C%20Computer%20Engineering&descAlignY=58&descSize=16&descColor=aaaaaa)
-
-</div>
-
-<div align="center">
-
-### Breaking systems to build better ones
-
-*Computer Engineering graduate passionate about cybersecurity —*  
-*specializing in web application security, network assessments, and vulnerability analysis.*
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a2e,100:0d1b4b&height=220&section=header&text=Asayel%20Alosaimi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Penetration%20Tester%20%7C%20Computer%20Engineering&descAlignY=58&descSize=16&descColor=7eb8f7&animation=fadeIn)
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asayel-alosaimi-b7025631a)
-[![YouTube](https://img.shields.io/badge/YouTube-0A0A0A?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AsayelAlosaimi)
+<a href="https://www.linkedin.com/in/asayel-alosaimi-b7025631a">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1b4b?style=for-the-badge&logo=linkedin&logoColor=7eb8f7"/>
+</a>
+<a href="https://www.youtube.com/@AsayelAlosaimi">
+  <img src="https://img.shields.io/badge/YouTube-0d1b4b?style=for-the-badge&logo=youtube&logoColor=7eb8f7"/>
+</a>
+
+<br><br>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7EB8F7&center=true&vCenter=true&width=500&lines=Breaking+systems+to+build+better+ones;Web+App+Security+%7C+Network+Pentesting;CTF+Player+%7C+Security+Researcher;Always+learning%2C+always+hacking+%F0%9F%94%93)
 
 </div>
 
 ---
 
-## About Me
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=AsayelAlosaimi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=7eb8f7&icon_color=7eb8f7&text_color=ffffff"/>
 
+##  About Me
+
+```python
+class AsayelAlosaimi:
+    role     = "Penetration Tester"
+    degree   = "Computer Engineering"
+    focus    = [
+        "Web Application Security",
+        "Network Assessments",
+        "Vulnerability Analysis",
+        "CTF Challenges"
+    ]
+    status   = "Open to opportunities"
+    passion  = "Cybersecurity ∞"
 ```
-  Name    : Asayel Alosaimi
-  Role    : Penetration Tester & Security Researcher & CTF Player 
-  Focus   : Web App Security · Network Assessments · Vulnerability Analysis
-  Status  : Open to opportunities in Cybersecurity & IT
-```
+
+<br clear="right"/>
 
 ---
 
-## Certifications
+##  Certifications
 
 <div align="center">
 
-| Certification | Issuer |
-|:---:|:---:|
-|  **eCPPT** — Certified Professional Penetration Tester | eLearnSecurity |
-|  **eWPTX** — Web Application Penetration Tester eXtreme | eLearnSecurity |
-|  **eJPT** — Junior Penetration Tester | eLearnSecurity |
-|  **CompTIA Security+** | CompTIA |
-|  **ICCA** — Introduction to Cloud Computing Associate | INE |
+<table>
+<tr>
+<td align="center" width="200">
+<img width="40" src="https://img.shields.io/badge/eCPPT-ff4444?style=for-the-badge"/><br/>
+<b>eCPPT</b><br/>
+<sub>Professional Penetration Tester</sub>
+</td>
+<td align="center" width="200">
+<img width="40" src="https://img.shields.io/badge/eWPTX-ff6600?style=for-the-badge"/><br/>
+<b>eWPTX</b><br/>
+<sub>Web App Pentester eXtreme</sub>
+</td>
+<td align="center" width="200">
+<img width="40" src="https://img.shields.io/badge/eJPT-ffaa00?style=for-the-badge"/><br/>
+<b>eJPT</b><br/>
+<sub>Junior Penetration Tester</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+<img width="40" src="https://img.shields.io/badge/Security+-0057b7?style=for-the-badge"/><br/>
+<b>CompTIA Security+</b><br/>
+<sub>CompTIA</sub>
+</td>
+<td align="center" width="200">
+<img width="40" src="https://img.shields.io/badge/ICCA-00aaff?style=for-the-badge"/><br/>
+<b>ICCA</b><br/>
+<sub>Cloud Computing Associate</sub>
+</td>
+<td align="center" width="200">
+<img width="40" src="https://img.shields.io/badge/More-333333?style=for-the-badge"/><br/>
+<b>In Progress...</b><br/>
+<sub>Always learning </sub>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## Skills & Tools
+##  Tools & Technologies
 
 <div align="center">
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Networking](https://img.shields.io/badge/Networking-0078D4?style=flat-square&logo=cisco&logoColor=white)
+**Offensive Security**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
+
+**Monitoring & Analysis**
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+
+**Development**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 </div>
 
 ---
 
-##  Latest Content
+##  GitHub Stats
 
->  I share penetration testing walkthroughs and cybersecurity content on YouTube  
-> **[@AsayelAlosaimi](https://www.youtube.com/@AsayelAlosaimi)**
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AsayelAlosaimi&theme=tokyonight&hide_border=true&background=0d0d1a&ring=7eb8f7&fire=7eb8f7&currStreakLabel=7eb8f7" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsayelAlosaimi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=7eb8f7&text_color=ffffff" width="49%"/>
+
+</div>
 
 ---
 
-##  Areas of Expertise
+##  Content & Community
 
-```
-Web Application Security     ████████████░░  85%
-Network Penetration Testing  ███████████░░░  78%
-Vulnerability Analysis       ████████████░░  82%
-IT Support & Infrastructure  ██████████░░░░  72%
-```
+<div align="center">
+
+>  I share **penetration testing walkthroughs**, CTF writeups, and cybersecurity content  
+> Subscribe → **[@AsayelAlosaimi](https://www.youtube.com/@AsayelAlosaimi)**
+
+</div>
 
 ---
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,100:000000&height=120&section=footer)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AsayelAlosaimi.AsayelAlosaimi&color=0d1b4b&labelColor=7eb8f7)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1b4b,50:0a0a2e,100:000000&height=120&section=footer)
 
 </div>
